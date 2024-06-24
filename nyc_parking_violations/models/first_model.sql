@@ -1,1 +1,1 @@
-SELECT * FROM parking_violations_2023
+SELECT * FROM parking_violation_codes
